@@ -1,0 +1,10 @@
+{
+  "id": "rawg-wasm",
+  "name": "RAWG",
+  "version": "0.2.0",
+  "kind": "metadata",
+  "entry": "rawg_metadata_wasm_plugin.wasm",
+  "settingsSchema": [
+    { "key": "api_key", "label": "RAWG API Key", "type": "password" }
+  ]
+}
