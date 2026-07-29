@@ -1,7 +1,7 @@
 {
   "id": "rawg-wasm",
   "name": "RAWG",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "kind": "metadata",
   "entry": "rawg_metadata_wasm_plugin.wasm",
   "settingsSchema": [
