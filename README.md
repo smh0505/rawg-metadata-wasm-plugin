@@ -19,6 +19,10 @@ Concourse's Settings under this plugin's row (rendered from `plugin.json`'s `set
 generic form the host builds for any WASM plugin that declares one; no custom UI code needed on
 either side).
 
+## Permissions
+
+Declares `httpScopes: ["api.rawg.io"]` (Milestone 13 URL allowlisting).
+
 ## Building
 
 ```sh
